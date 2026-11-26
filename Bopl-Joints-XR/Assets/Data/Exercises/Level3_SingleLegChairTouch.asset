@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef6e52a1bcc17947934a11e55f1ebae, type: 3}
+  m_Name: Level3_SingleLegChairTouch
+  m_EditorClassIdentifier: Assembly-CSharp::BoplJoints.Exercises.ExerciseDefinition
+  level: 3
+  displayName: Single-leg chair touch
+  nhsExerciseNumber: 41
+  summary: Stand on your working leg, touch the chair briefly and rise again.
+  steps:
+  - Stand with a chair behind you.
+  - Stand on the leg you are working.
+  - Lower your bottom down to the chair and touch it briefly. Do not sit down.
+  - Rise back up again.
+  singleLeg: 1
+  defaultRepetitions: 8
+  defaultSets: 3
